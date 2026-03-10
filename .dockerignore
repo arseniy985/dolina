@@ -1,0 +1,12 @@
+.git
+.github
+.next
+node_modules
+npm-debug.log
+.env
+.env.*
+!deploy/.env.production
+!deploy/.env.production.example
+coverage
+*.log
+tsconfig.tsbuildinfo
