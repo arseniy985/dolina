@@ -7,47 +7,47 @@ import { ArrowRight } from "lucide-react"
 
 const galleryImages = [
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/outside-bBx2u84wX0SxMoVK7XjjZMzyi1FZBd.webp",
+    src: "/images/dolina/facade-winter-entrance.webp",
     alt: "Фасад Чайханы Долина зимой",
     size: "tall",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside1-jVc5xFHuB9TQb94MFm6wr7CjpPVSAV.webp",
+    src: "/images/dolina/pavilion-dome.webp",
     alt: "Купол исторического павильона",
     size: "md",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside-L7QPRo54jJQJGy4Knvbrk62O5FtPkT.webp",
+    src: "/images/dolina/grand-staircase.webp",
     alt: "Парадная лестница",
     size: "md",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside4-0dBjYmapDM71VQWNDnxlsWDrlwV99x.webp",
+    src: "/images/dolina/banquet-hall-murals.webp",
     alt: "Банкетный зал с росписями",
     size: "wide",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside3-2cACH9z2gpZ469IupHqzSyZmzp0aMo.webp",
+    src: "/images/dolina/main-dining-hall.webp",
     alt: "Основной зал",
     size: "md",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside5-kQTybktBxGZ7jmiQuy2Bv48KxPjt1z.webp",
+    src: "/images/dolina/vip-cabins.webp",
     alt: "VIP кабинки",
     size: "md",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside6-EwGXz5SePhMOKns2SzVVZUIyuLOdj7.webp",
+    src: "/images/dolina/balcony-view.webp",
     alt: "Вид с балкона",
     size: "md",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/zal-XBiG4tZDEz8XuMXbPCyeOmCW0I4k05.webp",
+    src: "/images/dolina/mirrored-hall.webp",
     alt: "Зал с зеркалами",
     size: "md",
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/outside6-QH7LFrSRrgMaID6vaTYYJXlH1vuVLe.webp",
+    src: "/images/dolina/facade-summer-flowers.webp",
     alt: "Фасад летом с цветами",
     size: "md",
   },
@@ -88,7 +88,7 @@ export default function AboutPage() {
 
       <section className="relative h-[60vh] min-h-[440px] overflow-hidden">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/outside-bBx2u84wX0SxMoVK7XjjZMzyi1FZBd.webp"
+          src="/images/dolina/facade-winter-entrance.webp"
           alt="Чайхана Долина ВДНХ"
           fill
           priority

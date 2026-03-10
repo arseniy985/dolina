@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="flex items-center gap-3 mb-4">
             <div className="w-14 h-14 relative rounded-full overflow-hidden bg-white">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dolina-park-logo-1-vQxC74yq8kYUx13jZpCCfocqeVmaeM.webp"
+                src="/images/dolina/brand-logo.webp"
                 alt="Долина"
                 fill
                 className="object-cover"

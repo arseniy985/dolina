@@ -50,7 +50,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-3 group justify-self-start">
           <div className="w-10 h-10 lg:w-12 lg:h-12 relative rounded-full overflow-hidden bg-white">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dolina-park-logo-1-vQxC74yq8kYUx13jZpCCfocqeVmaeM.webp"
+              src="/images/dolina/brand-logo.webp"
               alt="Долина"
               fill
               className="object-cover"

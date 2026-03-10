@@ -21,7 +21,7 @@ export default function HomePage() {
       <section className="relative min-h-screen flex items-end overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/outside-bBx2u84wX0SxMoVK7XjjZMzyi1FZBd.webp"
+            src="/images/dolina/facade-winter-entrance.webp"
             alt="Чайхана Долина — вход, ВДНХ"
             fill
             priority
@@ -160,7 +160,7 @@ export default function HomePage() {
             <StaggerItem className="col-span-2">
               <Link href="/about" className="relative block h-full overflow-hidden rounded-xl group">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside4-0dBjYmapDM71VQWNDnxlsWDrlwV99x.webp"
+                  src="/images/dolina/banquet-hall-murals.webp"
                   alt="Интерьер Чайханы Долина"
                   fill
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -193,7 +193,7 @@ export default function HomePage() {
             <StaggerItem className="col-span-2 md:col-span-1">
               <Link href="/about" className="relative block h-full overflow-hidden rounded-xl group">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside3-2cACH9z2gpZ469IupHqzSyZmzp0aMo.webp"
+                  src="/images/dolina/main-dining-hall.webp"
                   alt="Залы Чайханы Долина"
                   fill
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -293,7 +293,7 @@ export default function HomePage() {
               <StaggerItem className="row-span-2">
                 <div className="relative h-full rounded-xl overflow-hidden">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside-L7QPRo54jJQJGy4Knvbrk62O5FtPkT.webp"
+                    src="/images/dolina/grand-staircase.webp"
                     alt="Лестница Чайханы Долина"
                     fill
                     className="object-cover"
@@ -303,7 +303,7 @@ export default function HomePage() {
               <StaggerItem>
                 <div className="relative h-full rounded-xl overflow-hidden">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/inside1-jVc5xFHuB9TQb94MFm6wr7CjpPVSAV.webp"
+                    src="/images/dolina/pavilion-dome.webp"
                     alt="Купол Чайханы Долина"
                     fill
                     className="object-cover"
@@ -313,7 +313,7 @@ export default function HomePage() {
               <StaggerItem>
                 <div className="relative h-full rounded-xl overflow-hidden">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/outside6-QH7LFrSRrgMaID6vaTYYJXlH1vuVLe.webp"
+                    src="/images/dolina/facade-summer-flowers.webp"
                     alt="Фасад летом"
                     fill
                     className="object-cover"
